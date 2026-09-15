@@ -9,7 +9,7 @@ This project uses Excel to analyse two years of retail transaction data covering
 
 ## Dashboard
 
-![Northstar Retail Dashboard](Dashboard/northstar_dashboard)
+![Northstar Retail Dashboard](Dashboard/northstar_dashboard.png)
 
 ## Business Questions
 
